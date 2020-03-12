@@ -1,0 +1,5 @@
+D:\2020\RESEARCH\DOTNET\CSVImportExport\CSVImportExport\bin\Debug\CSVImportExport.dll
+D:\2020\RESEARCH\DOTNET\CSVImportExport\CSVImportExport\bin\Debug\CSVImportExport.pdb
+D:\2020\RESEARCH\DOTNET\CSVImportExport\CSVImportExport\obj\Debug\CSVImportExport.csprojResolveAssemblyReference.cache
+D:\2020\RESEARCH\DOTNET\CSVImportExport\CSVImportExport\obj\Debug\CSVImportExport.dll
+D:\2020\RESEARCH\DOTNET\CSVImportExport\CSVImportExport\obj\Debug\CSVImportExport.pdb
